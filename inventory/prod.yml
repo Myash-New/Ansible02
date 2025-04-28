@@ -1,7 +1,7 @@
 clickhouse:
   hosts:
     clickhouse-01:
-      ansible_host: 89.169.156.224
+      ansible_host: 10.130.0.15
   vars:
     ansible_user: root
     ansible_ssh_private_key_file: "~/sshkey_terrafrom.pub"
@@ -10,7 +10,7 @@ clickhouse:
 vector:
   hosts:
     vector-01:
-      ansible_host: 158.160.43.177
+      ansible_host: 10.130.0.16
   vars:
     ansible_user: ansible
     ansible_ssh_private_key_file: "~/sshkey_terrafrom.pub"
