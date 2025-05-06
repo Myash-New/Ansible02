@@ -18,7 +18,7 @@ Check
 # 8
 
 Повторный запуск --diff
-![ansible_diff](https://github.com/Myash-New/Ansible02/blob/master/05.jpg))
+![ansible_diff](https://github.com/Myash-New/Ansible02/blob/master/05.jpg)
 
 
 
